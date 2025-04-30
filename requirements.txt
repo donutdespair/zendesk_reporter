@@ -6,4 +6,5 @@ seaborn
 streamlit
 python-dotenv
 business-duration 
-pytz             
+pytz            
+google-generativeai 
