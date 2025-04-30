@@ -1,0 +1,9 @@
+# requirements.txt
+requests
+pandas
+matplotlib
+seaborn
+streamlit
+python-dotenv
+business-duration 
+pytz             
